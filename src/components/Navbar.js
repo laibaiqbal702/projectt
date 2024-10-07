@@ -5,7 +5,7 @@ const Navbar = () => {
         
         {/* Left */}
         <div className="">
-        <img src={logo} className="w-40" />
+        <img src={logo} className="w-30" />
         </div>
         {/* Middle  */}
         {/* Right */}
